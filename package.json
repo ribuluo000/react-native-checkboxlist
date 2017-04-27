@@ -1,6 +1,6 @@
 {
   "name": "react-native-checkboxlist",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "checkboxList component for React native",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hinet/react-native-checkboxlist.git"
+    "url": "git+https://github.com/ribuluo000/react-native-checkboxlist.git"
   },
   "keywords": [
     "react-native",
@@ -18,10 +18,4 @@
     "react-native",
     "ios"
   ],
-  "author": "hinet <63603636@qq.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hinet/react-native-checkboxlist/issues"
-  },
-  "homepage": "https://github.com/hinet/react-native-checkboxlist#readme"
 }

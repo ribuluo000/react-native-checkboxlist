@@ -1,6 +1,6 @@
-import React from 'react-native';
+import ReactNative from 'react-native';
 
-export default React.StyleSheet.create({
+export default ReactNative.StyleSheet.create({
     list: {},
 
     row: {

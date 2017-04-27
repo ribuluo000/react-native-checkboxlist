@@ -3,14 +3,14 @@
 ## 安装
 
 ```sh
-npm install react-native-checkboxlist --save
+ 将BaseComponent.js, CheckboxList.js, styles.js 放入一个目录中，自行引用CheckboxList.js,进行使用。
 ```
 
 ## 使用
 
 这里是组件使用的概述。
 ```jsx
-import CheckboxList from 'react-native-checkboxlist'
+import CheckboxList from './CheckboxList'
 ```
 ### 使用示例1
 ```jsx
@@ -57,11 +57,11 @@ import CheckboxList from 'react-native-checkboxlist'
 ## 截图
 示例1
 
-![example](https://github.com/hinet/react-native-checkboxlist/blob/master/assets/images/screenshot02.png)
+![example](https://github.com/ribuluo000/react-native-checkboxlist/tree/master/assets/images/screenshot02.png)
 
 示例2
 
-![example](https://github.com/hinet/react-native-checkboxlist/blob/master/assets/images/screenshot01.png)
+![example](https://github.com/ribuluo000/react-native-checkboxlist/tree/master/assets/images/screenshot01.png)
 
 
 

@@ -1,6 +1,6 @@
 'use strict';
-
-import React from 'react-native';
+import React from 'react';
+import ReactNative from 'react-native';
 var {
     Text,
     TouchableOpacity,
@@ -8,7 +8,7 @@ var {
     Image,
     ListView,
     PropTypes
-    } = React;
+    } = ReactNative;
 
 import BaseComponent from './BaseComponent'
 import Styles from './styles'
@@ -24,7 +24,7 @@ const propTypes = {
     renderText: React.PropTypes.func,
     style: View.propTypes.style,
     optionStyle: View.propTypes.style,
-    disabled: PropTypes.bool
+    disabled: React.PropTypes.bool
 };
 const defaultProps = {
     options: [],

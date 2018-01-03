@@ -57,11 +57,11 @@ import CheckboxList from './CheckboxList'
 ## 截图
 示例1
 
-![example](https://github.com/ribuluo000/react-native-checkboxlist/tree/master/assets/images/screenshot02.png)
+![example](https://github.com/ribuluo000/react-native-checkboxlist/blob/master/assets/images/screenshot02.png?raw=true)
 
 示例2
 
-![example](https://github.com/ribuluo000/react-native-checkboxlist/tree/master/assets/images/screenshot01.png)
+![example](https://github.com/ribuluo000/react-native-checkboxlist/blob/master/assets/images/screenshot01.png?raw=true)
 
 
 
